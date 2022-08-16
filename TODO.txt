@@ -1,0 +1,14 @@
+#BIG
+_implémenter d'autres indicateurs plus élaborés
+_mémoiser les indicateurs bofbof
+_permettre des optimisation a pas de certains params OKK
+_sauvegarder tous les data pour pas refaire l'expe avec le meilleur gain pour plot les results
+_implémenter une proportion des différents poids d'indicateurs (au cours du best try et en général) EN PROPRE ET MODULABLE
+
+
+
+#SMALL
+_prédire le nombre d'itérations
+_implémenter une proportion des différents poids d'indicateurs (au cours du best try et en général)
+
+
